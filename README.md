@@ -4,8 +4,8 @@ A full-stack expense management application built with **React.js** and **Django
 
 ## Live Demo
 
-- **Frontend:** Add your deployed frontend URL here
-- **Backend API:** Add your deployed backend URL here
+- **Frontend:** https://expense-tracker-management-system-2-1.onrender.com
+- **Backend API:** https://expense-tracker-management-system-2.onrender.com/api/expenses/
 
 ## Features
 
@@ -134,7 +134,7 @@ DATABASE_URL
 The frontend deployment should set:
 
 ```text
-VITE_API_URL=https://your-backend-domain/api
+VITE_API_URL=https://expense-tracker-management-system-2.onrender.com/api
 ```
 
 ## Resume Highlights
