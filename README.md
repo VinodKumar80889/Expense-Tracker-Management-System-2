@@ -7,6 +7,10 @@ A full-stack expense management application built with **React.js** and **Django
 - **Frontend:** https://expense-tracker-management-system-2-1.onrender.com
 - **Backend API:** https://expense-tracker-management-system-2.onrender.com/api/expenses/
 
+## Application Preview
+
+![Expense Tracker Dashboard](./dashboard-preview.png)
+
 ## Features
 
 - Add, view, edit, and delete expenses
